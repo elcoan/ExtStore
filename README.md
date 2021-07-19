@@ -1,5 +1,7 @@
 ### Каталог дополнительных отчетов и обработок
 
-https://infostart.ru/public/1483324/
+![image](https://user-images.githubusercontent.com/46715878/126193774-675c6a95-dd17-4a4a-b9c3-17c25f9cce80.png)
 
 Каталог дополнительных отчетов и обработок с возможностью обновления и установки новых версий
+
+https://infostart.ru/public/1483324/
