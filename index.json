@@ -69,7 +69,7 @@
             "info": "Расширение для тестирования обновлений.",
             "url": "https://github.com/elcoan/ExtStore/raw/main/ТестовоеРасширение.cfe",
             "type": "Расширение",
-            "version": "1.00",
+            "version": "1.01",
             "UnsafeOperationWarnings": false,
             "UseDefaultRolesForAllUsers": false,
             "SafeMode": false,
