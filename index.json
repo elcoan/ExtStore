@@ -70,10 +70,10 @@
             "url": "https://github.com/elcoan/ExtStore/raw/main/ТестовоеРасширение.cfe",
             "type": "Расширение",
             "version": "1.02",
-            "UnsafeOperationWarnings": false,
-            "UseDefaultRolesForAllUsers": false,
+            "UnsafeOperationWarnings": true,
+            "UseDefaultRolesForAllUsers": true,
             "SafeMode": true,
-            "UsedInDistributedInfoBase": true,
+            "UsedInDistributedInfoBase": false,
             
         }
     ]
